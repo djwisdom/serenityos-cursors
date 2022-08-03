@@ -10,7 +10,7 @@ SerenityOS Cursor Themes
 #### Durrque cursor
 ![Durrque](https://github.com/djwisdom/digital-assets/blob/d0beffc578d75f1d312747eb8143af424d2c61ac/cursors/cursor-Durrque.png)
 
-#### Jakanke animated cursor
+#### Jakande animated cursor
 ![Jakande](https://github.com/djwisdom/digital-assets/blob/d0beffc578d75f1d312747eb8143af424d2c61ac/cursors/cursor-Jakande.png)
 
 #### Pulsar animated cursor
