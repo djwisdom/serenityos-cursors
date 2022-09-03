@@ -20,6 +20,9 @@ Directory structure
 ```
 
 ### Chillychilly All-in-One
+![All-in-One](Chillychilly-AIO-Theme.png)
+
+#### Chillychilly cursor
 ![Chillychilly](https://github.com/djwisdom/digital-assets/blob/d0beffc578d75f1d312747eb8143af424d2c61ac/cursors/cursor-Chillychilly.png)
 
 ## Work-in-Progress cursor themes hosted at SerenitOS/theming repo
