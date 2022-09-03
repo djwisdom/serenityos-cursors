@@ -1,7 +1,7 @@
 # serenityos-cursors
 SerenityOS Cursor Themes
 
-`
+```
 Directory structure
 
 .
@@ -17,7 +17,7 @@ Directory structure
             ├── Tesselate
             ├── Vanliga
             └── Vanliga-Dark
-`
+```
 
 ![Chillychilly](https://github.com/djwisdom/digital-assets/blob/d0beffc578d75f1d312747eb8143af424d2c61ac/cursors/cursor-Chillychilly.png)
 
